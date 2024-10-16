@@ -36,7 +36,6 @@ Hi! I'm Kalina, a beginner in web development with a Computer Science degree. I'
 - CSS3
 - Vanilla JavaScript
 
-## Getting Started
 
 To view my portfolio, simply open the `index.html` file in your web browser. You can also clone this repository to your local machine using the following command:
 
