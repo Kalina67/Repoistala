@@ -1,4 +1,3 @@
-#Also Klaina check this as an example of a README file
 # Kalina's Portfolio
 
 Welcome to Kalina's Portfolio! This is a simple single-page application showcasing my journey as a web developer. Here, you'll find my skills, projects, and a way to contact me.
