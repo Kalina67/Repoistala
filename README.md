@@ -2,7 +2,7 @@
 
 Welcome to Kalina's Portfolio! This is a simple single-page application showcasing my journey as a web developer. Here, you'll find my skills, projects, and a way to contact me.
 
-## Table of Contents
+# Table of Contents
 
 - [About Me](#about-me)
 - [Skills](#skills)
