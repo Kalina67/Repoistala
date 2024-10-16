@@ -29,9 +29,6 @@ Hi! I'm Kalina, a beginner in web development with a Computer Science degree. I'
 - **Personal Website**: A simple personal website to showcase my skills and projects.
 - **Todo List App**: A basic todo list application built with HTML, CSS, and JavaScript.
 
-## Contact
-
-Feel free to reach out through the contact form in the "Contact" section of my portfolio!
 
 ## Technologies Used
 
