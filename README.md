@@ -43,5 +43,5 @@ Feel free to reach out through the contact form in the "Contact" section of my p
 
 To view my portfolio, simply open the `index.html` file in your web browser. You can also clone this repository to your local machine using the following command:
 
-```bash
+
 
