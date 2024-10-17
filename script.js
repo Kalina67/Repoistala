@@ -9,7 +9,7 @@ document.getElementById('contactForm').addEventListener('submit', function(event
 
     // Simulate sending the message
     const responseMessage = document.getElementById('responseMessage');
-    responseMessage.textContent = `Thank you, ${name}! Your message has been sent.`;
+    responseMessage.textContent = `Thank you, ${name}! Your message has been sent!.`;
     responseMessage.classList.remove('hidden');
 
     // Clear the form
