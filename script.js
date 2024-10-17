@@ -16,7 +16,6 @@ document.getElementById('contactForm').addEventListener('submit', function(event
     this.reset();
 });
 
-// Load more projects (simulated)
 document.getElementById('loadMore').addEventListener('click', function() {
     alert('More projects will be added soon!');
 });
