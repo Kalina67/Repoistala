@@ -53,7 +53,7 @@
             </div>
             <button id="loadMore">Load More Projects</button>
         </section>
-
+        <title>Rainbow Text Animation</title>
         <section id="contact">
             <h2>Contact Me</h2>
             <form id="contactForm">
