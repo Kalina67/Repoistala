@@ -43,8 +43,11 @@ section {
 
 .project {
     margin: 10px 0;
-}
-
+} 
+ .rainbow-text {
+      font-size: 2em;
+      font-weight: bold;
+    }
 footer {
     text-align: center;
     padding: 1rem 0;
