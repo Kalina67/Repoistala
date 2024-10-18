@@ -36,8 +36,6 @@ Hi! I'm Kalina, a beginner in web development with a Computer Science degree. I'
 - CSS3
 - Vanilla JavaScript
 
-## Thanks!
-
 
 
 
