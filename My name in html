@@ -26,7 +26,7 @@
     <main>
         <section id="about">
             <h2>About Me</h2>
-            <p>Hi! I'm Kalina, a beginner in web development with a Computer Science degree. I'm passionate about learning HTML, CSS, and JavaScript, and I'm eager to explore frameworks and libraries.</p>
+            <p>Hi there! I'm Kalina, a beginner in web development with a Computer Science degree. I'm passionate about learning HTML, CSS, and JavaScript, and I'm eager to explore frameworks and libraries.</p>
         </section>
 
         <section id="skills">
