@@ -28,7 +28,7 @@ document.getElementById('loadMore').addEventListener('click', function() {
         requestAnimationFrame(updateColor); 
       }
 
-      updateColor(); // Start the animation
+      updateColor(); 
     }
 
     // Call the function to apply the rainbow animation
