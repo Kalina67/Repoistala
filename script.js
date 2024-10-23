@@ -12,7 +12,6 @@ document.getElementById('contactForm').addEventListener('submit', function(event
     responseMessage.textContent = `Thank you, ${name}! Your message has been sent!.`;
     responseMessage.classList.remove('hidden');
 
-    // Clear the form
     this.reset();
 });
 
