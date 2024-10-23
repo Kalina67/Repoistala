@@ -7,7 +7,6 @@ document.getElementById('contactForm').addEventListener('submit', function(event
     const email = document.getElementById('email').value;
     const message = document.getElementById('message').value;
 
-    // Simulate sending the message
     const responseMessage = document.getElementById('responseMessage');
     responseMessage.textContent = `Thank you, ${name}! Your message has been sent!.`;
     responseMessage.classList.remove('hidden');
