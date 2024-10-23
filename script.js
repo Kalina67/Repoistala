@@ -31,5 +31,4 @@ document.getElementById('loadMore').addEventListener('click', function() {
       updateColor(); 
     }
 
-    // Call the function to apply the rainbow animation
     rainbowAnimateText('rainbow');
