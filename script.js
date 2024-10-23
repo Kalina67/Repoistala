@@ -22,7 +22,7 @@ document.getElementById('loadMore').addEventListener('click', function() {
       let hue = 0;
 
       function updateColor() {
-        hue += 1; // Increase hue value to shift the color
+        hue += 1; 
         if (hue >= 360) hue = 0; // Reset the hue after 360 degrees
         element.style.color = `hsl(${hue}, 100%, 50%)`; // Set color using HSL
         requestAnimationFrame(updateColor); // Continue animation
