@@ -1,6 +1,6 @@
 //this is the JavaScript File that u should read and try to understand
 document.getElementById('contactForm').addEventListener('submit', function(event) {
-    event.preventDefault(); // Prevent the form from submitting normally
+    event.preventDefault(); 
 
     // Get the values from the form
     const name = document.getElementById('name').value;
