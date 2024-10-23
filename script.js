@@ -25,7 +25,7 @@ document.getElementById('loadMore').addEventListener('click', function() {
         hue += 1; 
         if (hue >= 360) hue = 0; 
         element.style.color = `hsl(${hue}, 100%, 50%)`; // Set color using HSL
-        requestAnimationFrame(updateColor); // Continue animation
+        requestAnimationFrame(updateColor); 
       }
 
       updateColor(); // Start the animation
