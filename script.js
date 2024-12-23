@@ -1,7 +1,7 @@
 //this is the JavaScript File that u should read and try to understand
 document.getElementById('contactForm').addEventListener('submit', function(event) {
     event.preventDefault(); 
-    //Get the Val
+    //Get the Va
     const name = document.getElementById('name').value;
     const email = document.getElementById('email').value;
     const message = document.getElementById('message').value;
