@@ -4,17 +4,10 @@
 let myMap = new Map();
 
 // Step 2: Add key-value pairs to the Map
-myMap.set('name', 'Alice');
-myMap.set('age', 25);
-myMap.set('city', 'New York');
 
 // Step 3: Access values using keys
-console.log(myMap.get('name')); // Output: Alice
-console.log(myMap.get('age'));  // Output: 25
 
 // Step 4: Check if a key exists
-console.log(myMap.has('city')); // Output: true
-console.log(myMap.has('country')); // Output: false
 
 // Step 5: Get the size of the Map
 console.log(myMap.size); // Output: 3
