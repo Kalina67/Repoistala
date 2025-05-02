@@ -13,17 +13,11 @@ let myMap = new Map();
 console.log(myMap.size); // Output: 3
 
 // Step 6: Iterate over the Map
-myMap.forEach((value, key) => {
-    console.log(`${key}: ${value}`);
-});
-// Output:
-// name: Alice
-// age: 25
-// city: New York
+
+
 
 // Step 7: Remove a key-value pair
-myMap.delete('age');
-console.log(myMap.size); // Output: 2
+
 
 // Step 8: Clear all entries in the Map
 myMap.clear();
