@@ -20,6 +20,5 @@ console.log(myMap.size); // Output: 3
 
 
 // Step 8: Clear all entries in the Map
-myMap.clear();
 console.log(myMap.size); // Output: 0
 
